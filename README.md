@@ -3,7 +3,7 @@ Refactor Udagram App into Microservices and Deploy
 
 # Project Detail:
 
-project has docker-compose file to run docker containers, each docker container has pne service whcih are : frontend service, rest API user service, and rest API feed service. both user and feed use the same port and reverseproxy control the incoming traffic between them.
+project has docker-compose file to run docker containers, each docker container has pne service which are : frontend service, rest API user service, and rest API feed service. both user and feed use the same port and reverseproxy control the incoming traffic between them.
 
 Also, the project has kubernete which run each docker dontainer inside pod in cluster.
 
