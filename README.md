@@ -16,4 +16,4 @@ Also, the project has kubernete which run each docker dontainer inside pod in cl
 * Project includes Dockerfiles to successfully create Docker images for /feed, /user backends, project frontend, and reverse proxy.
 * Integrated CI/CD pipeline by using Travis CI and docker and Kubernets.
 * Impemented Reverse proxy
-* Horizontal scaling with kumbernet
+* Horizontal scaling with kubernet
